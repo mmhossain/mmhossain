@@ -1,4 +1,5 @@
 # 🖐️ Hi, I'm Mosharaf Hossain
+**Building Scalable Systems. Inspiring Teams. Designing the Future.**
 
 **Experienced Full Stack Engineer | Scalable Systems | React | Angular | TypeScript | .NET | Python | Go | AWS | Microservices | Entity Framework | SQL Server**
 
@@ -26,7 +27,8 @@ In addition to hands-on technical work, I **lead organization-wide initiatives**
 - ⚡ Frontend and backend performance optimization
 - ☁️ Cloud deployments and automation
 - 🤖 Learning and exploring **AI technologies** and **AI-driven solutions**
-- 🛠️ Leveraging best-in-class engineering tools to optimize development workflows
+- 🧠 Leveraging best-in-class engineering tools like **GitHub Copilot** and **Codium** to enhance learning and productivity
+- 🛠️ Using powerful platforms like **Postman**, **Splunk**, **Datadog**, **PostHog** for full-stack development excellence
 - 📚 Continuous learning and contributing to the developer community
 
 ---
@@ -37,29 +39,33 @@ In addition to hands-on technical work, I **lead organization-wide initiatives**
 
 ---
 
-## 🛠️ Tech Stack
+<details>
+  <summary>🛠️ <b>Tech Stack</b> (click to expand)</summary>
+  
+  **Frontend**  
+  - React, Angular, TypeScript, JavaScript, HTML5, CSS3
 
-**Frontend**  
-- React, Angular, TypeScript, JavaScript, HTML5, CSS3
+  **Backend**  
+  - .NET Core, ASP.NET Web API, Node.js, Python, Go, Entity Framework
 
-**Backend**  
-- .NET Core, ASP.NET Web API, Node.js, Python, Go, Java, Spring Boot, Entity Framework
+  **Cloud & DevOps**  
+  - AWS, Docker, GitHub Actions
 
-**Cloud & DevOps**  
-- AWS, Docker, GitHub Actions
+  **Database**  
+  - SQL Server, PostgreSQL, MongoDB, DynamoDB, Elasticsearch
 
-**Database**  
-- SQL Server, PostgreSQL, MongoDB, DynamoDB, Elasticsearch
+  **Architecture & Patterns**  
+  - Microservices, Event-Driven Systems, Scalable APIs, CQRS, Saga Pattern
+  - Applying SOLID principles, Domain-Driven Design (DDD), Clean Architecture
 
-**Architecture & Patterns**  
-- Microservices, Event-Driven Systems, Scalable APIs, CQRS, Saga Pattern
-- Applying SOLID principles, Domain-Driven Design (DDD), and other architectural best practices
+  **Tools & Platforms**  
+  - Postman (API development and testing)
+  - Splunk & Datadog (Monitoring, Logging, Observability)
+  - PostHog (Product analytics)
+  - Visual Studio, VS Code, JetBrains Rider, IntelliJ IDEA (Development environments)
+  - GitHub Copilot, Codium (AI-powered productivity boosters)
 
-**Tools & Platforms**  
-- Postman (API development and testing)
-- Splunk & Datadog (Monitoring, Logging, Observability)
-- PostHog (Product analytics)
-- Visual Studio, VS Code, JetBrains Rider, IntelliJ IDEA (Development environments)
+</details>
 
 ---
 
