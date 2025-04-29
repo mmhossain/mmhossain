@@ -28,7 +28,7 @@ In addition to hands-on technical work, I **lead organization-wide initiatives**
 - ☁️ Cloud deployments and automation
 - 🤖 Learning and exploring **AI technologies** and **AI-driven solutions**
 - 🧠 Leveraging best-in-class engineering tools like **GitHub Copilot** and **Codium** to enhance learning and productivity
-- 🛠️ Using powerful platforms like **Postman**, **Splunk**, **Datadog**, **PostHog** for full-stack development excellence
+- 🛠️ Using powerful tools like **Postman**, **Splunk**, **Datadog**, **PostHog** for full-stack development excellence
 - 📚 Continuous learning and contributing to the developer community
 
 ---
@@ -46,13 +46,13 @@ In addition to hands-on technical work, I **lead organization-wide initiatives**
   - React, Angular, TypeScript, JavaScript, HTML5, CSS3
 
   **Backend**  
-  - .NET Core, ASP.NET Web API, Node.js, Python, Go, Entity Framework
+  - .NET Core, ASP.NET Web API, Java, Spring Boot, Node.js, Python, Go, Entity Framework
 
   **Cloud & DevOps**  
   - AWS, Docker, GitHub Actions
 
   **Database**  
-  - SQL Server, PostgreSQL, MongoDB, DynamoDB, Elasticsearch
+  - SQL Server, Cassandra, DynamoDB, Elasticsearch
 
   **Architecture & Patterns**  
   - Microservices, Event-Driven Systems, Scalable APIs, CQRS, Saga Pattern
